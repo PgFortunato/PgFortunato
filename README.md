@@ -1,5 +1,3 @@
-# Olá, eu sou o Pedro Gabriel!
-
 Estudante de Engenharia da Computação no CEFET.
 
 ---
